@@ -15,12 +15,14 @@
     "is-online": "^7.0.0",
     "is-reachable": "^2.3.2",
     "node-fetch": "^1.6.3",
-    "xml-parser": "^1.2.1"
+    "xml-parser": "^1.2.1",
+    "ngrok": "^3.1.0",
+    "aws-sdk": "2.347.0"
   },
   "devDependencies": {
-    "mocha": "^3.3.0",
     "babel-preset-stage-3": "^6.24.1",
     "eslint-config-rallycoding": "^3.2.0",
+    "mocha": "^5.2.0",
     "nodemon": "^1.11.0"
   }
 }

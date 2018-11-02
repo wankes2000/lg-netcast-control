@@ -1,4 +1,10 @@
 {
-  "code": 272905,
-  "ip": "192.168.1.10"
+  "code": 220781,
+  "ip": "192.168.1.101",
+  "port": 1235,
+  "user": "test",
+  "pass": "test",
+  "token": "tunnel_token",
+  "bucket": "test_bucket",
+  "s3Key": "ngrok-config.json"
 }
