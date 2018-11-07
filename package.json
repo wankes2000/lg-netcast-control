@@ -4,7 +4,7 @@
   "description": "Control my tv",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js --exec ./node_modules/babel-cli/bin/babel-node.js --presets node6"
+    "start": "nohup nodemon app.js --exec ./node_modules/babel-cli/bin/babel-node.js --presets node6 </dev/null &"
   },
   "author": "Michaël Villeneuve",
   "license": "MIT",
